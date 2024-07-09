@@ -2,7 +2,7 @@
   <h1>Hello! 👋</h1>
   <h4>I'm Abhishek Williams, a Computer Science graduate from LAMBTON COLLEGE.</h4>
 </div>
-<img src="comp.gif" width="100%" alt="Pizza" />
+<img src="c6M8G.gif" width="100%" alt="Pizza" />
 
 ## I used to edit text files professionally
 
