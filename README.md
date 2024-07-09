@@ -39,7 +39,7 @@ Feel free to reach out if you have any questions or opportunities!
 I used to edit text files professionally!
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepositoryname" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Abhishekwilliams.Abhishekwilliams" alt="visitor badge"/>
 </div>
 
 
