@@ -19,7 +19,7 @@ Hi! I'm Abhishek, a passionate Full Stack Developer with a knack for creating el
 A personal portfolio website showcasing my skills, projects, and experiences.
 - **Technologies:** Angular, HTML, CSS, JavaScript
 - **Live Demo:** [Portfolio App](https://main--abhishekwilliamsportfolio.netlify.app/)
-- **GitHub Repository:** [Portfolio App](https://github.com/yourusername/portfolio-app)
+- **GitHub Repository:** [Portfolio App](https://github.com/Abhishekwilliams/MyPorfolio)
 
 ### Asset Management System
 A web application for managing assets in an organization.
@@ -36,7 +36,7 @@ Feel free to reach out if you have any questions or opportunities!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekwilliams)
 
 ## Fun Fact
-I used to edit text files professionally!
+I can solve a Rubik's Cube in under two minutes!
 
 <div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Abhishekwilliams.Abhishekwilliams" alt="visitor badge"/>
