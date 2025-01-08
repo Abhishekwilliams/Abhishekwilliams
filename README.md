@@ -39,9 +39,8 @@ Feel free to reach out if you have any questions or opportunities!
 I can solve a Rubik's Cube in under two minutes!
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Abhishekwilliams.Abhishekwilliams" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Abhishekwilliams.visitor-badge" alt="visitor badge"/>
 </div>
-
 
 
 
