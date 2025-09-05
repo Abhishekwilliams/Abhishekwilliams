@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello! 👋</h1>
   <h4>I'm Abhishek Williams, a Computer Science graduate from SRM UNIVERSITY.</h4>
-  <h4>and POST GRADUATION IN AI AND ML from LAMBTON COLLEGE.</h4>
+  <h4>and Post Graduation in AI and ML from LAMBTON COLLEGE.</h4>
   <img src="6M8G.gif" width="100%" alt="Pizza" />
 </div>
 
